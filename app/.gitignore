@@ -1,0 +1,8 @@
+### Python ###
+__pycache__/
+.vscode
+
+# Distribution / packaging
+node_modules/
+
+
